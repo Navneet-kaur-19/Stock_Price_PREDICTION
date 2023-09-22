@@ -1,6 +1,9 @@
 # Stock_Price_PREDICTION
 Stock Price Prediction using LSTM model 
 
+![stock](https://github.com/Navneet-kaur-19/Stock_Price_PREDICTION/assets/140330208/43ef61eb-39c1-4eca-bda9-30b21f1e9abd)
+
+
 
 
 
@@ -11,6 +14,8 @@ This repository contains code and resources for building a stock price predictio
 
 
 Table of Contents
+
+
 Overview
 Getting Started
 Dataset
