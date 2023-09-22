@@ -23,7 +23,6 @@ This repository contains code and resources for building a stock price predictio
 Table of Contents
 
 
-
 Overview
 
 Getting Started
