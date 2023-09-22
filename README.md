@@ -9,8 +9,8 @@ Stock Price Prediction using LSTM model
 
 
 
-Overview
 
+OVERVIEW
 
 This repository contains code and resources for building a stock price prediction model using an LSTM neural network. The LSTM model is a type of recurrent neural network (RNN) that is particularly well-suited for time series forecasting tasks, such as predicting stock prices.
 
@@ -20,8 +20,7 @@ This repository contains code and resources for building a stock price predictio
 
 
 
-Table of Contents
-
+TABLE OF CONTENTS
 
 Overview
 
@@ -49,15 +48,12 @@ License
 
 
 
-Getting Started
-
-
+GETTING STARTED
 
 1.I used Jupyter Notebook 
 
-    
 
-3.Download Dataset : 
+2.Download Dataset : 
 
   Two ways: 
     - Download Historical Data from online Source ,i.e , yahoofinance website
@@ -75,10 +71,11 @@ Getting Started
 
  
 
-Dataset
 
 
 
+
+DATASET:
 
 I use AAPL dataset for training and evaluation model.You can use any Stock price data
 .This dataset contains historical stock price data for AAPL and includes features such as date, open price, close price, volume, etc.
@@ -90,7 +87,7 @@ I use AAPL dataset for training and evaluation model.You can use any Stock price
 
 
 
-Requirements
+REQUIREMENTS:
 
 
 
@@ -117,7 +114,7 @@ Keras
 
 
 
-Model Architecture
+MODEL ARCHITECTURE
 
 
 
@@ -133,7 +130,7 @@ Our stock price prediction model is based on an LSTM neural network architecture
 
 
 
-Training 
+TRAINING
 
 
 
@@ -149,7 +146,7 @@ The model is trained on 70% data that is stored in X_train and Y_train Variable
 
 
 
-Evaluation
+EVALUATION
 
 
 
@@ -163,7 +160,7 @@ I evaluate the model's performance using various metrics, including Mean Squared
 
 
 
-Results
+RESULTS
 
 
 
@@ -181,7 +178,7 @@ I have achieved promising results in predicting stock prices using our LSTM mode
 
 
 
-Contributing
+CONTRIBUTING
 
 
 
@@ -192,7 +189,7 @@ We welcome contributions from the community. If you have any suggestions, bug re
 
 
 
-License
+LICENSE
 
 
 
