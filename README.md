@@ -30,10 +30,6 @@ Getting Started
 
 
 1.I used Jupyter Notebook 
-2.Install Required packages:
-
-    bash
-    pip install -r requirements.txt
 
     
 
